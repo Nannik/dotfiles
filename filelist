@@ -1,1 +1,8 @@
 .bashrc
+
+.config/hypr/hyprland.conf
+.config/hypr/vars.conf
+.config/hypr/colors.conf
+
+.config/qutebrowser/quickmarks
+
